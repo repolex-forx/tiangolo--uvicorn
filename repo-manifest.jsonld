@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/uvicorn/commit/3dd0d44445cc2d96c77037ba1f7bfefd288f370e",
       "git:hexsha": "3dd0d44445cc2d96c77037ba1f7bfefd288f370e",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:59:26.965137+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/uvicorn/commit/c491a8c0f3434d90fae635c5d56e02b33a1936d8",
