@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/tiangolo/uvicorn/commit/3dd0d44445cc2d96c77037ba1f7bfefd288f370e",
+  "@type": "git:Commit",
+  "git:hexsha": "3dd0d44445cc2d96c77037ba1f7bfefd288f370e",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/tiangolo/uvicorn"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/3dd0d44445cc2d96c77037ba1f7bfefd288f370e.nq.gz",
+      "repolex:graphFileSize": 16142
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 642630
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 487
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 4509
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-11T19:55:46.296203+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
