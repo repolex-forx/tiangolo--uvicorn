@@ -1,0 +1,11 @@
+{
+  "org": "tiangolo",
+  "repo": "uvicorn",
+  "versions": [
+    {
+      "commit": "3dd0d44445cc2d96c77037ba1f7bfefd288f370e",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:59:26.965860+00:00"
+    }
+  ]
+}
